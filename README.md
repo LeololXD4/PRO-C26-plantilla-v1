@@ -1,2 +1,1 @@
-# PRO-C26-plantilla-v1
-PRO-C26-plantilla-v1 para nivel básico
+# Solucion-del-proyecto-C26-v3
